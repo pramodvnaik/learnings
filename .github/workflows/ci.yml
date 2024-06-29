@@ -20,6 +20,6 @@ jobs:
           cache-version: 0 # Increment this number if you need to re-download cached gems
       - run: |
           which ruby
-          bundle install
+          gem install bundler
       - name: Build with Jekyll
         run: bundle exec jekyll build
