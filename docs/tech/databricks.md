@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Databricks
-nav_order: 2
+parent: TECHNOLOGIES AND TOOLS
+nav_order: 5
 ---
 
 # Configuration
