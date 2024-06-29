@@ -13,7 +13,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
       - name: Installer Latest Bundler with Jekyll
-        run: install bundler
+        run: gem install bundler
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
