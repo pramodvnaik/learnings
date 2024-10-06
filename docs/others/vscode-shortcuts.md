@@ -8,6 +8,4 @@ nav_order: 1
 
 
 
-![VS Shortcut](https://github.com/pramodvnaik/learnings/docs/assets/CTRLSHIFTL.gif)
-
-![VS Shortcut](docs/assets/CTRLSHIFTL.gif)
+![VS Shortcut](https://pramodvnaik.github.io/learnings/docs/assets/CTRLSHIFTL.gif)
