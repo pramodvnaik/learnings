@@ -15,6 +15,6 @@ permalink: /
 
 ## Table of contents
 ### [Azure DevOps](/docs/devops/) 
-#### [Working with Azure DevOps API](/docs/devops/azdAPI/) 
-#### [Working with Azure DevOps](/docs/devops/azdevops/)
+#### [Working with Azure DevOps API]({{ site.baseurl }}/docs/devops/azdAPI/) 
+#### [Working with Azure DevOps]({{ site.baseurl }}/docs/devops/azdevops/)
 ---
