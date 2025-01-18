@@ -9,7 +9,12 @@ permalink: /
 
 # Welcome! 
 
-### Thank you for checking out my page , this documentation is my experiences.
+#### Thank you for checking out my page, this documentation is my experiences.
 
+{: .no_toc }
 
-## [DEVOPS](/learnings/docs/devops/)
+## Table of contents
+### [Azure DevOps](/docs/devops/) 
+#### [Working with Azure DevOps API](/docs/devops/azdAPI/) 
+#### [Working with Azure DevOps](/docs/devops/azdevops/)
+---
