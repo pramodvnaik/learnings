@@ -12,4 +12,4 @@ permalink: /
 ### Thank you for checking out my page , this documentation is my experiences.
 
 
-## [DEVOPS](learnings/docs/devops/)
+## [DEVOPS](/docs/devops/)
